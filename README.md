@@ -1,1 +1,1 @@
-# game_description
+# Game Description on Server Browser
